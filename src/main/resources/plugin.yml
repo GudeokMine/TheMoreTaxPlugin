@@ -1,0 +1,5 @@
+name: TheMoreTax
+version: '${version}'
+main: lepitar.lepitar.TheMoreTaxPlugin
+api-version: 1.19
+softdepend: [Vault, LiteEco]

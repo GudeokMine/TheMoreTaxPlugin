@@ -1,0 +1,9 @@
+brewPrice:
+  # The percentage of the extendPotions
+  extendPotions: 150
+  # The percentage of the upgradePotions
+  upgradePotions: 170
+  # THe price of the Normal Potions
+  normalPotions: 2000
+smithPrice:
+  upgradePrice: 5000
